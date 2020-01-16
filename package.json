@@ -1,0 +1,24 @@
+{
+  "name": "browserify-reference",
+  "version": "1.0.0",
+  "description": "Use require in the browser",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpvnguyen/browserify-reference.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpvnguyen/browserify-reference/issues"
+  },
+  "homepage": "https://github.com/vpvnguyen/browserify-reference#readme",
+  "dependencies": {
+    "cron": "^1.7.2",
+    "uniq": "^1.0.1"
+  }
+}
