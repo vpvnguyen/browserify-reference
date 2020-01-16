@@ -28,7 +28,8 @@ new CronJob('* * * * * *', function() {
 
 When ready for production, use Browserify to bundle NPM packages
 - `browserify cronJob.js -o <new_filename.js>`
-- add <sript> tag for `<new_filename.js>`
+- add a new `<script>` tag in `index.html` for `<new_filename.js>`
+> `<script src="cronBundle.js"></script>`
 
 
 
